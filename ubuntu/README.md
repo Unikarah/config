@@ -15,6 +15,7 @@
 $ pacmd list-sinks | grep name:
   name: <alsa_output.pci-0000_00_14.2.analog-stereo>
 ```
+- lock screen: move the `lock` script in `.config/scripts/`
 
 ## Inspo
 
